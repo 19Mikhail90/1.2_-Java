@@ -7,8 +7,8 @@
 На тестирование затрачено: <2 часа>
 
 В результате тестирования выявлены следующие дефекты:
-* <https://github.com/19Mikhail90/Java-/issues/2#issue-963443882>
-* <https://github.com/19Mikhail90/Java-/issues/3#issue-963444205>
+* <https://github.com/19Mikhail90/1.2_-Java/issues/1#issue-964941096>
+* <https://github.com/19Mikhail90/1.2_-Java/issues/2#issue-964942675>
 
 
 ## Описание процесса тестирования
